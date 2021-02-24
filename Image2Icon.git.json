@@ -1,0 +1,10 @@
+{
+  "license": "",
+  "url": "https://github.com/DarcPhansea/Image2Icon.git",
+  "version": "git",
+  "homepage": "https://github.com/DarcPhansea/Image2Icon.git",
+  "depends": "",
+  "hash": "",
+  "bin": "Png2Ico.exe",
+  "extract_dir": ""
+}
